@@ -1,7 +1,9 @@
 # -_aplicacion_java_intellij_metodos_de_ecuaciones_diferenciales_- :.
 Aplicacion Java IntelliJ — Métodos de Ecuaciones Diferenciales:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/126eae71-2eb1-4555-b976-f51829adddaf" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/126eae71-2eb1-4555-b976-f51829adddaf" />    
+
+<img width="2555" height="1077" alt="image" src="https://github.com/user-attachments/assets/358f4096-cbcf-47ae-8976-90fcc7081b25" />    
 
 ```
 Java + Swing + Oracle 19c + Registro de Resultados
